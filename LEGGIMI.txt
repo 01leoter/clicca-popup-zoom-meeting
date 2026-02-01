@@ -1,0 +1,21 @@
+CIAO!
+Questo programma è stato creato per cliccare i sondaggi di Zoom, ovviamente non serve ad eludere alcun sistema di rilevazione delle presenze...non si fanno queste cose!
+È molto semplice da usare:
+	1. apri il file "Clicca_popup"
+	2. se l'antivirus si incazza non dargli ascolto e consenti tutto (non ci ho messo nessun virus, siamo già nella merda così come stiamo)
+	3. clicca sul pulsante "Avvia script"
+	4. per fermare lo script clicca su "Ferma script" oppure chiudi le finestre dello script oppure premi Ctrl+Q
+
+COSA FA LO SCRIPT?
+Semplice: ogni 30 secondi cerca sullo schermo il pulsante "si" relativo alla domanda del popup, se lo trova lo clicca, e poco dopo clicca sul pulsante invia.
+Così facendo non appena compare il popup, in breve tempo verrà inviata la risposta "si" automaticamente senza che tu faccia nulla!
+
+ATTENZIONE PERÒ!
+	- Il programma non è stato testato su pc con più schermi.
+	- Il programma funziona solo se Zoom è in italiano.
+	- Il programma funziona solo se la finestra del popup non viene coperta da altre finestre.
+	- Il programma funziona solo se il pc è acceso e la videoconferenza è attiva.
+	- Il programma non è affidabile al 100%.
+	- È sconsigliabile utilizzare il pc mentre è in esecuzione il programma.
+
+Buon divertimento
